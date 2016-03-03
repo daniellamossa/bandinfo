@@ -1,0 +1,52 @@
+body{
+  background-color: black;
+  background-image: url(band.png);
+  max-width: 650px;
+  margin: 0 auto;
+  background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: center;
+}
+
+.wrapper {
+  background: #000;
+  width: auto;
+}
+p{
+   color: white;
+   text-shadow: black;
+   text-align: center;
+   font-size: 40px;
+   font-family: Impact, Haettenschweiler, 'Franklin Gothic Bold', Charcoal,
+   'Helvetica Inserat', 'Bitstream Vera Sans Bold', 'Arial Black', 'sans serif';
+   text-shadow: white;
+   border-width: thick;
+   border-color:white;
+ }
+ img {
+   width: 600px;
+ }
+ .center {
+   width:300px;
+   padding-left: 170px;
+ }
+ li{
+   color: white;
+}
+ ol{
+   display: block;
+   width: 450px;
+   margin: 0 auto;
+ }
+/*index*/
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 58px;
+  font-family: Impact, Haettenschweiler, 'Franklin Gothic Bold', Charcoal,
+  'Helvetica Inserat', 'Bitstream Vera Sans Bold', 'Arial Black', 'sans serif';
+  letter-spacing: 5px;
+}
+p.intro {
+  font-size: 20px;
+}
